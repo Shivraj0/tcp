@@ -1,0 +1,25 @@
+{
+  "name": "tcp",
+  "version": "1.0.0",
+  "description": "A simple tcp server",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shivraj0/tcp.git"
+  },
+  "keywords": [
+    "tcp",
+    "server",
+    "web",
+    "nodejs"
+  ],
+  "author": "Shivraj Koli",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shivraj0/tcp/issues"
+  },
+  "homepage": "https://github.com/Shivraj0/tcp#readme"
+}
